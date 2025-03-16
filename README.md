@@ -141,7 +141,7 @@ For this section, we will temporarily move to the ros2_arctos directory in the s
 *In the future, we will handle this in a more user-friendly way.*
 
 ```bash
-pushd src/ros2_arctos
+pushd ~/ros2_ws/src/ros2_arctos
 ```
 
 Make the setup script executable:
