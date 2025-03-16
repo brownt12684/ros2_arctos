@@ -126,7 +126,7 @@ rosdep install --from-paths src -y --ignore-src
 Build the workspace using `colcon`:
 
 ```bash
-cd ros2_arctos
+cd ~/ros2_ws/src/ros2_arctos
 colcon build --symlink-install
 source install/setup.bash
 ```
